@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Isaque+Lima!)](https://git.io/typing-svg)
 
-<img src="https://github.com/isaqueof/isaqueof/blob/main/octocat-1715479383542.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://github.com/isaqueof/isaqueof/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
 
 <p align="left"> 
 Sou Carioca, tenho 34 anos e sou <strong>Desenvolvedor Full-Stack</strong>.
