@@ -1,4 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Isaque+Lima!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Engenharia%20de%20Software"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Isaque+Lima;I'm+34+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+Study+Engenharia+de+Software+development+at+Unilasalle;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+
+
+
+
 <br>
 <img src="https://github.com/isaqueof/isaqueof/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
