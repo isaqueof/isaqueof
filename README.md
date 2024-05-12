@@ -23,7 +23,7 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 <br>
 
 
-<div align="center">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;" align="center">
   <h2 align="left">Stacks:</h2>
   <img src="https://github.com/isaqueof/isaqueof/blob/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif?raw=true" alt="ilustração de um computador" width="50%" align="right">
 </div>
