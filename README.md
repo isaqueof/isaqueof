@@ -42,7 +42,7 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 
 <br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 <a><img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=isaqueof&anuraghazra&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" 
