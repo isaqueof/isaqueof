@@ -99,7 +99,7 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=isaqueof&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=isaqueof&column=8&theme=darkhub&no-frame=true&no-bg=true" />
   </a>
 </div>
 
