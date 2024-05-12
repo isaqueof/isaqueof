@@ -43,13 +43,15 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 <br>
 
 <div style="display: inline_block" align="center"><br>
-<a><img width="400"
+<a><img
+        width="400"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=isaqueof&anuraghazra&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" 
         alt="Github stats"
       /> </a>
 
-<a><img width="400"
+<a><img
+        width="400"
         align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=neon&hide_border=false" 
         alt="Github stats"
