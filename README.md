@@ -36,6 +36,28 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
 <br>
+
+
+<div style="display: inline_block"><br>
+<a><img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=isaqueof&anuraghazra&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" 
+        alt="Github stats"
+      /> </a>
+
+<a><img
+        align="right"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=dark&hide_border=false" 
+        alt="Github stats"
+      /> </a>
+      
+
+</div>
+
+
+      
+
+
 <table>
   <tr>
     <td>
