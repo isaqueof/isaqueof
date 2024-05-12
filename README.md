@@ -22,25 +22,28 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 
 <br>
 
-<h2 align="left">Stacks:</h2>
 
+<div align="center">
+  <h2 align="left">Stacks:</h2>
+  <img src="https://github.com/isaqueof/isaqueof/blob/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif?raw=true" alt="ilustração de um computador" width="50%" align="right">
+</div>
 <br>
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img align="center" alt="isaquelimaof-Java" height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="isaquelimaof-Java" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="isaquelimaof-Java" height="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=ffffff">
-  <img align="center" alt="isaquelimaof-Java" height="50" src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=148&color=616161">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=148&color=ffffff">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="isaquelimaof-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="isaquelimaof-Java" height="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=ffffff">
+  <img align="center" alt="isaquelimaof-Java" height="40" src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=148&color=616161">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://icongr.am/devicon/visualstudio-plain.svg?size=148&color=ffffff">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
 
 <br>
@@ -75,19 +78,19 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <div align="center" style="flex-basis: 30%;">
     <a href="#">
-      <img width="40%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
     </a>
   </div>
 
   <div align="center" style="flex-basis: 30%;">
     <a href="#">
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&theme=neon&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&theme=neon&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
     </a>
   </div>
 
   <div align="center" style="flex-basis: 30%;">
     <a href="#">
-      <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=neon&hide_border=false" alt="Github streak stats" />
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=neon&hide_border=false" alt="Github streak stats" />
     </a>
   </div>
 </div>
