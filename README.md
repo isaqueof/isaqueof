@@ -2,11 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Isaque+Lima;I'm+34+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+Study+Engenharia+de+Software+development+at+Unilasalle;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-
-
-
 <br>
 <img src="https://github.com/isaqueof/isaqueof/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
@@ -74,21 +69,26 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 
 <div style="display: inline_block" align="center"><br>
 <a><img
-        width="400"
+        width="300px"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=isaqueof&anuraghazra&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" 
         alt="Github stats"
       /> </a>
-
+  
 <a><img
-        width="400"
+        width="300px"
         align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=neon&hide_border=false" 
         alt="Github stats"
       /> </a>
-     
-</div>
 
+<a><img
+        width="300px"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&dasda&theme=neon&show_icons=true&hide_border=true&layout=compact" 
+        alt="Github stats"
+  /> </a>  
+      
 <br>
 
 <p align="center">
