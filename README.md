@@ -64,7 +64,7 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 </div>  
 <br>
 
-<div style="display: inline-block; width: 10;" align="center">
+<div style="display:; width: 10;" align="center">
   <br>
 <a><img
         width="300px"
