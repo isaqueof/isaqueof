@@ -22,9 +22,8 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 </h2>
 <br>
 <div style="display: inline_block"><br>
-  <img align="center" alt="isaquelimaof-Java" height="60" width="70"          src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="isaquelimaof-Java" height="60" width="70" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="isaquelimaof-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="isaquelimaof-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="center" alt="isaquelimaof-Java" height="50" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=ffffff">
   <img align="center" alt="isaquelimaof-Java" height="50" width="60" src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=148&color=616161">
   <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://icongr.am/devicon/visualstudio-plain.svg?size=148&color=ffffff">
@@ -74,7 +73,12 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
         src="https://github-readme-stats.vercel.app/api?username=isaqueof&anuraghazra&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" 
         alt="Github stats"
       /> </a>
-  
+<a><img
+        width="300px"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&dasda&theme=neon&show_icons=true&hide_border=true&layout=compact" 
+        alt="Github stats"
+  /> </a>   
 <a><img
         width="300px"
         align="right"
@@ -82,12 +86,7 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
         alt="Github stats"
       /> </a>
 
-<a><img
-        width="300px"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&dasda&theme=neon&show_icons=true&hide_border=true&layout=compact" 
-        alt="Github stats"
-  /> </a>  
+ 
       
 <br>
 
