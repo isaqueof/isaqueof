@@ -1,29 +1,42 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Isaque+Lima!)](https://git.io/typing-svg)
-
+<br>
 <img src="https://github.com/isaqueof/isaqueof/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<br>
 <p align="left"> 
 Sou Carioca, tenho 34 anos e sou <strong>Desenvolvedor Full-Stack</strong>.
-
+<br>
 Sou uma pessoa muito dedicada em tudo o que faço. Estou cursando engenharia de software, estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
 Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2 align="left">
  Stacks:
 </h2>
-
+<br>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/isaqueof/isaqueof/blob/main/jquery_original_wordmark_logo_icon_146447.svg">
+  <img align="center" alt="isaquelimaof-Java" height="60" width="70"          src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="isaquelimaof-Java" height="60" width="70" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="isaquelimaof-Java" height="50" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=ffffff">
+  <img align="center" alt="isaquelimaof-Java" height="50" width="60" src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=148&color=616161">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://icongr.am/devicon/visualstudio-plain.svg?size=148&color=ffffff">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="isaquelimaof-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  
 </div>
+  
 
 <br>
 <p align="left">
@@ -39,8 +52,17 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 <a href="https://www.instagram.com/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
-
+<div  style="display: inline_block" align="center"><br>
+  <img align="center" alt="isaquelimaof-Java" width="80" height="100"  
+ src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp"  />
+  <img align="center" alt="isaquelimaof-Java" width="180" height="200"  
+ src="https://i.giphy.com/media/gD5LqssNPRIRTU3BlA/giphy.webp"  />
+  <img align="center" alt="isaquelimaof-Java" width="80" height="100"  
+ src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp"  />
+</div>  
 <br>
+
+
 
 <div style="display: inline_block" align="center"><br>
 <a><img
