@@ -49,7 +49,7 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<div align="center">
+<div align="center" >
   <a href="" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -64,33 +64,32 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
 <br>
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img width="30%" src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp" alt="gif1">
-  <img width="30%" src="https://i.giphy.com/media/gD5LqssNPRIRTU3BlA/giphy.webp" alt="gif2">
-  <img width="30%" src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp" alt="gif3">
+  <img width="20%" src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp" alt="gif1">
+  <img width="20%" src="https://i.giphy.com/media/gD5LqssNPRIRTU3BlA/giphy.webp" alt="gif2">
+  <img width="20%" src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp" alt="gif3">
 </div>  
 
 <br>
 
-<div align="center">
-  <a href="#">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
-  </a>
-</div>
 
-<br>
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <div align="center" style="flex-basis: 30%;">
+    <a href="#">
+      <img width="40%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+    </a>
+  </div>
 
-<div align="center">
-  <a href="#">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&theme=neon&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
-  </a>
-</div>
+  <div align="center" style="flex-basis: 30%;">
+    <a href="#">
+      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&theme=neon&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
+    </a>
+  </div>
 
-<br>
-
-<div align="center">
-  <a href="#">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=neon&hide_border=false" alt="Github streak stats" />
-  </a>
+  <div align="center" style="flex-basis: 30%;">
+    <a href="#">
+      <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=neon&hide_border=false" alt="Github streak stats" />
+    </a>
+  </div>
 </div>
 
 <br>
