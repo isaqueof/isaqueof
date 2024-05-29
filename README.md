@@ -44,7 +44,10 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lu
   <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
+
+
 
 <br>
 
