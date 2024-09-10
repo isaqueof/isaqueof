@@ -13,11 +13,11 @@
 <br>
 
 <p align="left"> 
-Sou Carioca, tenho 34 anos e sou <strong>Desenvolvedor Full-Stack</strong>.
+Sou Carioca,<strong>Desenvolvedor Full-Stack</strong>.
 <br>
-Sou uma pessoa muito dedicada em tudo o que faço. Estou cursando engenharia de software, estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
+Sou uma pessoa muito dedicada em tudo o que faço. Estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
-Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo um lugar melhor.
 </p>
 
 <br>
