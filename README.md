@@ -114,4 +114,5 @@ Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo um lugar melh
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/isaqueof/count.svg" alt="Ilustração do número de visitantes no perfil" />
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 </p>
