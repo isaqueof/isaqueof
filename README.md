@@ -1,117 +1,89 @@
+<!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Engenharia%20de%20Software"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:203a43&text=Isaque%20Lima&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f5f5f5,100:dce3e8&text=Isaque%20Lima&fontColor=000000&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Isaque%20Lima"/>
+  </picture>
 </div>
+
+---
+
+### 👋 Sobre mim
+Sou um desenvolvedor **Full-Stack** apaixonado por criar soluções que conectam tecnologia, design e impacto real.  
+Acredito que **engenharia de software é uma forma de transformar ideias em sistemas que inspiram confiança e mudam realidades**.
+
+🎯 Atualmente focado em:
+- Desenvolvimento **backend com Java e Python**
+- **APIs escaláveis**, arquitetura limpa e integração de sistemas
+- Experiência sólida com **Angular**, **TypeScript** e **PostgreSQL**
+- Automação, performance e boas práticas de engenharia
+
+💡 Sempre explorando como a tecnologia pode antecipar o futuro e resolver os problemas de amanhã.
+
+---
+
+### 🧠 Stacks principais
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Isaque+Lima;I'm+34+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+Study+Engenharia+de+Software+development+at+Unilasalle;Be+Welcome!+:%29)](https://git.io/typing-svg)
+| Backend | Frontend | Banco de Dados | Outros |
+|:--:|:--:|:--:|:--:|
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
+| ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
 
-<br>
+</div>
+
+---
+
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github.com/isaqueof/isaqueof/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ilustração de um computador" width="50%" align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=default"/>
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=default&hide_border=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=default"/>
+  </picture>
 </div>
 
-<br>
+---
 
-<p align="left"> 
-Sou Carioca,<strong>Desenvolvedor Full-Stack</strong>.
-<br>
-Sou uma pessoa muito dedicada em tudo o que faço. Estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
-Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo um lugar melhor.
-</p>
-
-<br>
-
-
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;" align="center">
-  <h2 align="left">Stacks:</h2>
-  <img width="100%" src="https://github.com/isaqueof/isaqueof/blob/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif?raw=true" alt="ilustração de um computador" width="50%" align="right">
-</div>
-<br>
-
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img align="center" alt="isaquelimaof-Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="isaquelimaof-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=ffffff">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=148&color=616161">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://icongr.am/devicon/visualstudio-plain.svg?size=148&color=ffffff">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="isaquelimaof-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-</div>
-
-
-
-<br>
-
-<p align="center">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
-</p>
-
-<div align="center" >
-  <a href="" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/+55" title="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img width="20%" src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp" alt="gif1">
-  <img width="20%" src="https://i.giphy.com/media/gD5LqssNPRIRTU3BlA/giphy.webp" alt="gif2">
-  <img width="20%" src="https://i.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.webp" alt="gif3">
-</div>  
-
-<br>
-
-
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <div align="center" style="flex-basis: 30%;">
-    <a href="#">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=neon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
-    </a>
-  </div>
-
-  <div align="center" style="flex-basis: 30%;">
-    <a href="#">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&theme=neon&show_icons=true&hide_border=true&layout=compact" alt="Top languages" />
-    </a>
-  </div>
-
-  <div align="center" style="flex-basis: 30%;">
-    <a href="#">
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueof&theme=neon&hide_border=false" alt="Github streak stats" />
-    </a>
-  </div>
-</div>
-
-<br>
+### 🏆 Conquistas e Engajamento
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=isaqueof&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=isaqueof&theme=onedark&no-bg=true&margin-w=10&column=7"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=isaqueof&theme=flat&no-bg=true&margin-w=10&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=isaqueof&theme=flat&no-bg=true&margin-w=10&column=7"/>
+  </picture>
+</div>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<div align="center">
+  <a href="#" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/+55" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
+  <sub>“A tecnologia é o idioma do futuro — e o código é a forma como o traduzimos.”</sub>  
+  <br>
+  <sub>© 2025 - Isaque Lima</sub>
 </div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/isaqueof/count.svg" alt="Ilustração do número de visitantes no perfil" />
-</p>
