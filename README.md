@@ -1,42 +1,45 @@
 <!-- HEADER -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:203a43&text=Isaque%20Lima&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f5f5f5,100:dce3e8&text=Isaque%20Lima&fontColor=000000&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Isaque%20Lima"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:203a43&text=Isaque%20Lima&fontColor=ffffff&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f5f5f5,100:dce3e8&text=Isaque%20Lima&fontColor=000000&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Isaque%20Lima&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js"/>
   </picture>
 </div>
 
 ---
 
 ### 👋 Sobre mim
-Sou um desenvolvedor **Full-Stack** apaixonado por criar soluções que conectam tecnologia, design e impacto real.  
-Acredito que **engenharia de software é uma forma de transformar ideias em sistemas que inspiram confiança e mudam realidades**.
+Sou **Isaque Lima**, engenheiro de software com foco em **desenvolvimento Full-Stack**.  
+Tenho experiência na construção de sistemas modernos, escaláveis e intuitivos — combinando **arquitetura backend robusta** com **interfaces frontend elegantes e performáticas**.
 
 🎯 Atualmente focado em:
-- Desenvolvimento **backend com Java e Python**
-- **APIs escaláveis**, arquitetura limpa e integração de sistemas
-- Experiência sólida com **Angular**, **TypeScript** e **PostgreSQL**
-- Automação, performance e boas práticas de engenharia
+- **Desenvolvimento Web e APIs** com *Node.js, Django e Spring Boot*  
+- **Front-end moderno** com *React, Next.js e TypeScript*  
+- **Banco de dados** com *PostgreSQL e MySQL*  
+- **Infraestrutura e deploy** com *Docker e Linux*
 
-💡 Sempre explorando como a tecnologia pode antecipar o futuro e resolver os problemas de amanhã.
+💡 Acredito que tecnologia é sobre **clareza, eficiência e impacto real**.
 
 ---
 
-### 🧠 Stacks principais
+### 🧠 Principais Tecnologias
+
 <div align="center">
-  
-| Backend | Frontend | Banco de Dados | Outros |
+
+| Front-end | Back-end | Banco de Dados | Ferramentas |
 |:--:|:--:|:--:|:--:|
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
-| ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
+| ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) | ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg) |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |   | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) |
 
 </div>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <picture>
@@ -54,7 +57,7 @@ Acredito que **engenharia de software é uma forma de transformar ideias em sist
 
 ---
 
-### 🏆 Conquistas e Engajamento
+### 🏆 Conquistas
 
 <div align="center">
   <picture>
@@ -77,6 +80,9 @@ Acredito que **engenharia de software é uma forma de transformar ideias em sist
   </a>
   <a href="https://www.instagram.com/" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="#" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
