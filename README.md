@@ -44,9 +44,11 @@ Crio sistemas modernos, escaláveis e intuitivos — unindo **arquitetura backen
 
   <!-- Stats e linguagens -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <!-- Stats -->
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10&rank_icon=github#gh-dark-mode-only"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&border_radius=10&rank_icon=github#gh-light-mode-only"/>
 
+    <!-- Linguagens -->
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=tokyonight&hide_border=true&border_radius=10#gh-dark-mode-only"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=default&hide_border=true&border_radius=10#gh-light-mode-only"/>
   </div>
