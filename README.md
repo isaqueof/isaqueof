@@ -57,18 +57,6 @@ Tenho experiência na construção de sistemas modernos, escaláveis e intuitivo
 
 ---
 
-### 🏆 Conquistas
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=isaqueof&theme=onedark&no-bg=true&margin-w=10&column=7"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=isaqueof&theme=flat&no-bg=true&margin-w=10&column=7"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=isaqueof&theme=flat&no-bg=true&margin-w=10&column=7"/>
-  </picture>
-</div>
-
----
-
 ### 🤝 Conecte-se comigo
 
 <div align="center">
