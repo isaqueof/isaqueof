@@ -1,17 +1,16 @@
 <!-- HEADER -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:203a43&text=Isaque%20Lima&fontColor=ffffff&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f5f5f5,100:dce3e8&text=Isaque%20Lima&fontColor=000000&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Isaque%20Lima&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js"/>
-  </picture>
+  <!-- GitHub ignora <source> dentro de <picture>, então usamos fallback seguro -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:203a43&text=Isaque%20Lima&fontColor=ffffff&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn#gh-dark-mode-only" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f5f5f5,100:dce3e8&text=Isaque%20Lima&fontColor=000000&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn#gh-light-mode-only" />
 </div>
 
 ---
 
 ### 👋 Sobre mim
+
 Sou **Isaque Lima**, engenheiro de software com foco em **desenvolvimento Full-Stack**.  
-Tenho experiência na construção de sistemas modernos, escaláveis e intuitivos — combinando **arquitetura backend robusta** com **interfaces frontend elegantes e performáticas**.
+Crio sistemas modernos, escaláveis e intuitivos — unindo **arquitetura backend robusta** com **interfaces frontend elegantes e performáticas**.
 
 🎯 Atualmente focado em:
 - **Desenvolvimento Web e APIs** com *Node.js, Django e Spring Boot*  
@@ -29,11 +28,11 @@ Tenho experiência na construção de sistemas modernos, escaláveis e intuitivo
 
 | Front-end | Back-end | Banco de Dados | Ferramentas |
 |:--:|:--:|:--:|:--:|
-| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
-| ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) | ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg) |
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
-| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |   | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> |   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> |
 
 </div>
 
@@ -42,17 +41,25 @@ Tenho experiência na construção de sistemas modernos, escaláveis e intuitivo
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&theme=default"/>
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=default&hide_border=true"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=default"/>
-  </picture>
+
+  <!-- Stats e linguagens -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10&rank_icon=github#gh-dark-mode-only"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&border_radius=10&rank_icon=github#gh-light-mode-only"/>
+
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=tokyonight&hide_border=true&border_radius=10#gh-dark-mode-only"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=default&hide_border=true&border_radius=10#gh-light-mode-only"/>
+  </div>
+
+  <br>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=isaqueof&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" width="98%"/>
+
+  <br><br>
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=isaqueof&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" width="98%"/>
 </div>
 
 ---
@@ -60,16 +67,16 @@ Tenho experiência na construção de sistemas modernos, escaláveis e intuitivo
 ### 🤝 Conecte-se comigo
 
 <div align="center">
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/isaqueof" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+55" title="WhatsApp">
+  <a href="https://wa.me/5581999999999" title="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/" title="Instagram">
+  <a href="https://www.instagram.com/isaqueof" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="#" title="Portfolio">
+  <a href="https://isaqueof.vercel.app" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
@@ -77,7 +84,7 @@ Tenho experiência na construção de sistemas modernos, escaláveis e intuitivo
 ---
 
 <div align="center">
-  <sub>“A tecnologia é o idioma do futuro — e o código é a forma como o traduzimos.”</sub>  
+  <sub>“A tecnologia é o idioma do futuro — e o código é como o traduzimos.”</sub>  
   <br>
-  <sub>© 2025 - Isaque Lima</sub>
+  <sub>© 2025 - Isaque Lima 🚀 | Desenvolvendo ideias que criam impacto.</sub>
 </div>
