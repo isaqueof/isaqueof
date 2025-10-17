@@ -1,11 +1,13 @@
 <!-- HEADER -->
 <div align="center">
-  <!-- GitHub ignora <source> dentro de <picture>, então usamos fallback seguro -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:203a43&text=Isaque%20Lima&fontColor=ffffff&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn#gh-dark-mode-only" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f5f5f5,100:dce3e8&text=Isaque%20Lima&fontColor=000000&fontAlignY=35&fontSize=45&desc=Full-Stack%20Software%20Engineer%20|%20React%20%26%20Node.js&descAlignY=55&descAlign=50&animation=fadeIn#gh-light-mode-only" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:203a43&text=Isaque%20Lima&fontColor=ffffff" 
+    alt="Isaque Lima - Full-Stack Software Engineer" 
+    width="100%"
+  />
 </div>
 
----
+
 
 ### 👋 Sobre mim
 
@@ -48,9 +50,11 @@ Crio sistemas modernos, escaláveis e intuitivos — unindo **arquitetura backen
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10&rank_icon=github#gh-dark-mode-only"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaqueof&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&border_radius=10&rank_icon=github#gh-light-mode-only"/>
 
-    <!-- Linguagens -->
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=tokyonight&hide_border=true&border_radius=10#gh-dark-mode-only"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=default&hide_border=true&border_radius=10#gh-light-mode-only"/>
+  <!-- Linguagens -->
+  <div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueof&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages - Dark/Light fallback" />
+</div>
+
   </div>
 
   <br>
